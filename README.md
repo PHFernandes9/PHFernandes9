@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👩🏻‍💻 Paulo Fernandes
 
-<!--
-**PHFernandes9/PHFernandes9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Analista de Dados`**
 
-Here are some ideas to get you started:
+Me chamo Paulo Henrique, tenho 26 anos e sou natural de Minas Gerais. Tenho curso técnico em Zootecnia pelo IFNMG. Graduação em 
+Engenharia Elétrica pela Universidade Federal de Itajubá e cursando Especialização em Inteligência Artificial pela UFV.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=PHFernandes9&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
